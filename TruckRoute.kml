@@ -1,0 +1,6666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="TruckRoutes">
+  <name>TruckRoutes</name>
+  <Snippet></Snippet>
+  <description><![CDATA[TruckRoutes]]></description>
+  <Folder id="FeatureLayer0">
+    <name>TruckRoutes</name>
+    <Snippet></Snippet>
+    <description><![CDATA[TruckRoutes]]></description>
+    <Placemark id="ID_00000">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 66</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{1E486650-5705-479B-ADBA-76436A6911CB}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>14184.62222</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/5/2018 5:40:53 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:28:44 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Hwy 6</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldibrook Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>10.4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.83187256042483,43.0575942111241,0 -79.85175073256009,43.06440241529526,0 -79.85423982227859,43.06734956167413,0 -79.85676346030458,43.06800380511204,0 -79.85985336484464,43.0686621838269,0 -79.86591279608345,43.0698576603653,0 -79.86860809587203,43.0705432265278,0 -79.87131176256915,43.07160912540625,0 -79.89260613952963,43.07901134781878,0 -79.91615829720945,43.08737599178664,0 -79.9172311803061,43.08753269990137,0 -79.91817531775453,43.0873446502468,0 -79.91920528653344,43.08649841998522,0 -79.92036400096055,43.08380294245862,0 -79.94452533947218,43.08944450386426,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 2 / Caistorville Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{7FA8E8A3-B44A-479A-A8B5-7B7A35B5E750}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>8812.538773</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/8/2018 5:43:43 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:29:00 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road Roads 14 and 63</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Region of Niagara Boundary</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>6.46</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.71208076740662,43.03594089536457,0 -79.71096496819557,43.03343140925937,0 -79.71044998380613,43.01128074949621,0 -79.70830421671451,43.0096489397345,0 -79.70444183648858,43.00908407291358,0 -79.69422798452162,43.00883301925275,0 -79.69148140171011,43.00839367271286,0 -79.68959312681322,43.00757773489961,0 -79.67766266081364,42.99609069374551,0 -79.67689018512777,42.99376791589267,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 14 / Smithville Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{CEE1D7A2-09E6-42A0-9AB4-5EABE2F018FB}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>4202.956339</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/8/2018 5:55:55 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:29:07 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 2 and 63</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Region of Niagara Boundary</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>3.05</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.65247135442141,43.01470113195711,0 -79.65530376676675,43.0122535380296,0 -79.67689018512777,42.99364235822262,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 63 / Canborough Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{6D661837-E27A-494C-971C-BC3FD9CBC06D}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>10418.730429</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/8/2018 5:56:46 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:29:22 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Hwy 3</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Region of Niagara Boundary</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>7.4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.59208946485201,42.99298317427515,0 -79.59440689370622,42.99310873329194,0 -79.61642246512625,42.9930145640534,0 -79.62702255493613,42.99304595381562,0 -79.63573436984913,42.99210425134677,0 -79.65131263999429,42.99197868962078,0 -79.66504555045864,42.99194729931347,0 -79.67053871428504,42.99204147018733,0 -79.67315655055005,42.99235537337221,0 -79.67525940152728,42.99304595381562,0 -79.67663269293305,42.99367374766418,0 -79.67950802139278,42.99232398325728,0 -79.68014102195268,42.99190021349387,0 -79.68106370224224,42.99146074585713,0 -79.68015175143043,42.99188451865071,0 -79.67954020713108,42.99228474509829,0 -79.67903595221939,42.99166478516901,0 -79.67891793515062,42.99154707001133,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 56</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{B17E4FA4-E95D-435F-8762-F4A431035808}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>16003.018743</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/8/2018 5:58:41 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:29:37 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Hwy 3</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldibrook Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>11.7</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.81208858742687,43.07095077834574,0 -79.76848659764582,42.97079980219822,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{B1E7C841-4B06-4ADD-9718-4B941A70B3F5}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>15623.612681</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/8/2018 5:59:24 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:29:50 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 54</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Region of Niagara Boundary</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>11.6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.89122448211364,43.02384494846466,0 -79.86401615337968,43.02403319294565,0 -79.86315784636335,43.02440967951935,0 -79.84727916970571,43.02917831573475,0 -79.83037052337085,43.03438574522267,0 -79.80050144405413,43.04141193739407,0 -79.75750026909468,43.05169883873063,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 22 / McClung Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{8042FF92-2AF0-488D-852D-95E99D96A95A}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>3213.98368</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/8/2018 6:00:13 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:30:00 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 54</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Road 66</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>2.38</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.93053493681313,43.06424150546041,0 -79.92778835489992,43.06668702646728,0 -79.92650089482461,43.06957136176118,0 -79.92049274660876,43.08380294245862,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 33 / Tyneside Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{95480A77-7909-4185-8F35-3C0BDBECBE00}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>2802.421336</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/8/2018 6:03:13 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:30:09 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 66</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldibrook Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>2.08</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.89564476194506,43.08019833887243,0 -79.88839206886998,43.09690310466029,0 -79.88774833883232,43.09762384614765,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Greens Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{DF5FC8A3-B09E-4C7B-AB80-029225FA17D0}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>1349.885095</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/8/2018 6:18:32 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:42:09 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Mines Road</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Hwy 6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>0.96</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.95667038155212,43.09245312460196,0 -79.96830044014091,43.09496019521588,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Mines Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{36B2094C-70DE-4D8B-A4F1-75D38554E6A4}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>2358.372862</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/8/2018 6:19:01 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:30:23 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 54</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Greens Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>1.8</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.9748235727462,43.0802296840685,0 -79.96834335535698,43.09496019521588,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 54</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{F0E7FB0C-8A9F-4C28-A4F7-421A26147F1B}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>3580.886816</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/8/2018 6:20:39 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:30:31 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Brant Haldimand Boundary</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Mines Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>2.85</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.00319061500895,43.09027502373146,0 -80.00035820266361,43.08899006432971,0 -79.99868450384707,43.08873933751286,0 -79.99469337707463,43.08861397339159,0 -79.99276218606335,43.08842592705653,0 -79.98945770454462,43.08729763757894,0 -79.98692569961007,43.08560516406635,0 -79.98486576295058,43.08441413656891,0 -79.98104629704241,43.08287830341003,0 -79.97757015465943,43.08153049982861,0 -79.97495231839441,43.08021401180054,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 54</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{81EE119A-8CB3-4AA4-988C-2BA3ED357A94}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>20849.438863</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/8/2018 6:22:03 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:30:52 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Hwy 3 Cayuga</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Road 22 / McClung Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>15.5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.85586223807219,42.95046415927094,0 -79.86002502660722,42.95888188908227,0 -79.86152706366119,42.96057785967049,0 -79.86603317482309,42.96673321131635,0 -79.87114010080656,42.97448933329664,0 -79.87148342343343,42.97587088786313,0 -79.87165508519601,42.97759778775281,0 -79.87169800041207,42.97992117669315,0 -79.87071094774757,42.98387701483618,0 -79.86903724893102,42.98739310172923,0 -79.86736355011446,42.9891510697592,0 -79.86629066701781,42.99103455076547,0 -79.86564693698017,42.99335743192832,0 -79.86637649744995,42.99753211875979,0 -79.86744938144491,43.00315023416251,0 -79.86933765634181,43.00544127394772,0 -79.87268505307659,43.00851678155317,0 -79.87633285722217,43.01140385254995,0 -79.87963733874091,43.01247077935554,0 -79.88315639723828,43.01382010120671,0 -79.88710460879466,43.01645590041384,0 -79.889507868081,43.01946810336548,0 -79.89118156689757,43.02210366014388,0 -79.89122448211364,43.02633913984391,0 -79.8913961429779,43.02847245528413,0 -79.89234028042634,43.03022924800982,0 -79.89491520147529,43.03314666816288,0 -79.89787636036715,43.03672267065804,0 -79.89894924346379,43.03825966040957,0 -79.90225372498251,43.04070621764449,0 -79.90452823862066,43.04280767005133,0 -79.90950641895593,43.04851572891378,0 -79.91221008475476,43.05162043890154,0 -79.91392669878738,43.05569709187249,0 -79.91474209058762,43.05789210065947,0 -79.91581497368426,43.05917771226897,0 -79.91890487912265,43.06087091576153,0 -79.92178020668406,43.06247000909425,0 -79.92323932852196,43.0629403226866,0 -79.92495594255458,43.06359875578579,0 -79.93044910638099,43.06428853516359,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 64 / Rymer Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{3ED2F0F2-D72F-40C3-87C0-5B36C689681C}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>3062.379682</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/8/2018 6:50:42 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:27:29 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 3 / Northshore Dr</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Siddall Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>2.2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.56788636006955,42.86468831703938,0 -79.56567621970467,42.86600942672812,0 -79.54102135396246,42.86629251845345,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 3 / Northshore Dr</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{5A6D74C9-0667-4CA4-A2EA-D1B31D6418A0}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>9370.713052</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/8/2018 6:52:23 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:27:45 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 64</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Queen Street Dunnville</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>6.87</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.59951496863495,42.90000254540564,0 -79.59897852708663,42.89992395193782,0 -79.59400034675134,42.89918516923306,0 -79.58842135159449,42.89836778222499,0 -79.58509541291689,42.89817915286448,0 -79.58423710590058,42.89825774855632,0 -79.58273506884662,42.8985878489732,0 -79.57955933387441,42.8994366705961,0 -79.57734919350953,42.89937379551603,0 -79.57552529098757,42.8990122615743,0 -79.56876612424475,42.89679585413326,0 -79.56674910280132,42.89608847318812,0 -79.56400252088811,42.89402916291748,0 -79.5628867225754,42.89267721206946,0 -79.56194258422865,42.8919383425409,0 -79.55696440479167,42.88902994115829,0 -79.55486155291614,42.8880237591173,0 -79.55224371665112,42.88670312065049,0 -79.54926110060039,42.88329134041247,0 -79.548359878368,42.88197060063067,0 -79.54687929847292,42.87843276586804,0 -79.546063907571,42.87597974785209,0 -79.54597807624054,42.87447014968335,0 -79.545742042103,42.87291333770939,0 -79.54520560055468,42.87190689346531,0 -79.5434246132488,42.86986250183266,0 -79.54250193385754,42.86846284104719,0 -79.54104281201964,42.86629251845345,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 29 / 4th Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{C0EA9A5B-8CFE-414D-A847-8D6680B8D51F}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>8385.748165</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/8/2018 7:41:21 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:33:05 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 9</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Six Nations</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>6.15</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.92905047978927,42.9991471928353,0 -79.99624117969904,43.02405243970443,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Stoney Creek Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{5D24BA5E-7462-4477-935E-02162475749B}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>8130.993232</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/8/2018 8:40:14 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:33:16 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 66</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Rd 54</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>March 1st - April 30th</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A &amp; B</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>6.01</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle015</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.89162610630075,43.02922709281282,0 -79.83403371475895,43.05268838597947,0 -79.83360456080163,43.05319013362902,0 -79.83171628590475,43.05758025210098,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{A997A017-9336-48BF-BBDB-95A76B05A6D1}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>20714.932215</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/8/2018 8:41:25 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:33:31 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 20</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Road 54</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>15.1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.01887010193045,42.94993188228077,0 -80.01822637189278,42.95034023454398,0 -80.00423597013204,42.95376400962959,0 -79.98380826619812,42.95875798196266,0 -79.95492623954593,42.96563580815739,0 -79.95226548806484,42.96635809215207,0 -79.94904683697827,42.96887031928594,0 -79.94793103776723,42.97053461263392,0 -79.94282411178375,42.97829025525284,0 -79.93046449272518,42.9971257998026,0 -79.9233405461966,43.00770256580637,0 -79.91527246132127,43.02016009981619,0 -79.91501496912653,43.02113274769815,0 -79.91505788434259,43.02176025455883,0 -79.91527246132127,43.02301524903976,0 -79.91449998473708,43.02448983408402,0 -79.91381333948337,43.02505455986311,0 -79.91196797980253,43.02646635059769,0 -79.91038011231643,43.02699968579577,0 -79.90295575747874,43.02656046921953,0 -79.90179704305164,43.02637223248821,0 -79.89909337635449,43.02461532936946,0 -79.89514516479812,43.02210538082838,0 -79.89441560343002,43.02194850543212,0 -79.89102529147915,43.02188575542408,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 20 / Indian Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{CA4CD2EC-7FE3-480B-971F-5627D9D1803F}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>12396.20315</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/8/2018 8:42:46 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:27:13 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Hwy 6</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Hwy 3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>9.03</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.95262798972304,42.92678334127763,0 -79.95331463587507,42.92675191769223,0 -79.95284256670168,42.9265319514879,0 -79.96464428615475,42.93077401882767,0 -79.99451336636977,42.94148786405886,0 -80.02961811731818,42.95405304916241,0 -80.05167660485259,42.96206201630693,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 20 / Indian Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{EFACA5DA-2C49-4A34-8A31-2AD9CEAA75BC}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>39782.000751</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/8/2018 8:45:33 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:27:03 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 3 / Rainham Rd</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Hwy 3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>29.1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.63604149575993,42.89242769374036,0 -79.63623461468138,42.89278926694569,0 -79.6358054616224,42.89266350250711,0 -79.63514027352755,42.89255345865976,0 -79.635762545508,42.89266350250711,0 -79.64717802711816,42.89596472662366,0 -79.65676960710465,42.8986527359132,0 -79.65953764617673,42.89947011848584,0 -79.66700491623048,42.90299102925941,0 -79.66882881875243,42.9038712255359,0 -79.66981587141696,42.90401268504368,0 -79.6703308558064,42.90393409668766,0 -79.67575964635955,42.90281813227356,0 -79.69620880835066,42.89844838808342,0 -79.70268902484158,42.89711225380284,0 -79.70404085819017,42.89689218178826,0 -79.70524248783335,42.89711225380284,0 -79.70590767592819,42.89755239547572,0 -79.70620808333896,42.89800825280604,0 -79.70629391377111,42.89877848747978,0 -79.70627245661224,42.90088479467565,0 -79.7063368298855,42.90624454976662,0 -79.7065943211819,42.90679464487933,0 -79.70698055992315,42.90732901800627,0 -79.70751700147147,42.90759620316154,0 -79.7083323932717,42.90780052001431,0 -79.70927653072016,42.90769050317974,0 -79.72056326578378,42.90503432323919,0 -79.74043307011216,42.90035036502929,0 -79.76459440952213,42.89454993820881,0 -79.79791817406296,42.88665796572963,0 -79.82293781959092,42.88082480335731,0 -79.82437548337164,42.8807304615914,0 -79.82568440150412,42.88096631507744,0 -79.84038290747409,42.88617057956036,0 -79.85688385701052,42.89205039875955,0 -79.87297711154514,42.89781962234574,0 -79.8917525747197,42.90456280007263,0 -79.90896162756702,42.91073946857112,0 -79.91672930503158,42.9135368403259,0 -79.92885288905431,42.91784265814147,0 -79.94125542422729,42.92235244436598,0 -79.95277819342843,42.92651623996198,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 20 / Indian Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{28A34FA4-2272-41E0-8B42-1A7432CC72C3}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>16626.271867</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/8/2018 8:46:30 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:26:43 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 74</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Hwy 6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>12.2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.18517968588624,43.0112315417058,0 -80.16629693422234,43.00413912632455,0 -80.13209340460803,42.99148999894088,0 -80.09724614495602,42.97871267954838,0 -80.074801420477,42.97048607157939,0 -80.05179879549416,42.96206992933061,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 27 / Conc. 11 W</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{8187F312-CEAC-4B97-9A25-15F4E667DCD4}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>5766.076714</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/8/2018 8:55:53 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:26:35 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 18</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Road 20 / Indian Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>March 1st - April 30th</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A &amp; B</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>4.36</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle015</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.06690499646594,42.94190418861404,0 -80.06587502858537,42.94199843613021,0 -80.03918168424084,42.94576822965004,0 -80.01660821321531,42.94890954845917,0 -80.01609322882585,42.94912943473938,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 61 / Taylor Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{5B479FAC-D7D5-49E5-AF16-979AC8B64BB8}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>623.461109</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 6:14:36 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:42:12 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Hwy 3 / Broad St</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Road 3 / Northshore</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>0.37</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.59887869012258,42.89992162308007,0 -79.59950096300135,42.90040890058925,0 -79.59950096300135,42.90006309165018,0 -79.59947950494417,42.90048749343892,0 -79.60055238893912,42.9030338447984,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00022">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Main St Dunnville</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{D9B77F00-8206-4DDB-9A44-8ED142E7B0CD}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>3602.540902</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 6:15:01 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:26:02 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Hwy 3 / George St</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Road 61 / Taylor Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>2.7</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.63781179041899,42.90906045096948,0 -79.63712821830185,42.90872884659674,0 -79.63668389000276,42.90846249933359,0 -79.63597302886392,42.90794497479524,0 -79.63535758946952,42.90758923390687,0 -79.63411341381786,42.9070315692523,0 -79.6301854341183,42.90564295908415,0 -79.62894088925907,42.90515572359998,0 -79.62604410364047,42.90397691091368,0 -79.62406999741312,42.90309671614609,0 -79.62340480931826,42.9027509216243,0 -79.61909181707784,42.90154062651133,0 -79.61829788333479,42.90130485234708,0 -79.61735374588635,42.9013834440547,0 -79.61651689692722,42.90157206295458,0 -79.6102941717327,42.90130485234708,0 -79.60834152356256,42.90121054190249,0 -79.60797674287851,42.90114766863132,0 -79.59947950494417,42.89998449825957,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00023">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 3 / Rainham Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{C66017BA-566A-4E25-923A-5888F1AAA0BF}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>2623.636117</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 6:18:34 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:25:49 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 3 / Main St</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Road 20 / Indian Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>1.95</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.63611143319807,42.89236158927975,0 -79.63523166812456,42.89255023643588,0 -79.63398712326533,42.89266028028892,0 -79.63031786196086,42.89269172125972,0 -79.62782877134407,42.89272316221449,0 -79.62694900716888,42.89291180826464,0 -79.62604778493649,42.89360350507292,0 -79.62604778493649,42.89360350507292,0 -79.62585466601503,42.89379214843022,0 -79.62493198572545,42.89451527540596,0 -79.62308662604462,42.89593006527414,0 -79.62259309971238,42.89648025242202,0 -79.62134855485313,42.89787927772321,0 -79.61986797495805,42.90034714321275,0 -79.61898821078286,42.90151030740121,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00024">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 15 / Robinson Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{1414184F-FB77-4540-BBB3-A6AB29DD364A}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>13714.643604</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 6:21:10 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:25:33 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Hwy 3</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Region of Niagara Boundary</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>10.1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.57833112308198,42.98803162748325,0 -79.58940328206525,42.97314982502482,0 -79.59966004924829,42.95967774640041,0 -79.61300672186968,42.94211879239035,0 -79.62832749892182,42.92188366260076,0 -79.63146031957628,42.91757812650376,0 -79.63781179041899,42.90906045096948,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00025">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 17</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{4A155A3A-2E62-4E55-839F-5DB44E4949C8}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>26027.954295</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 6:24:45 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:25:22 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Hwy 3 Cayuga</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Hwy 3 Dunnville</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>19.1</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.85294989363287,42.95095688110673,0 -79.84930208858897,42.94289934590596,0 -79.84874418988177,42.94227103362766,0 -79.84704903300803,42.94156417456771,0 -79.84432390915201,42.94054314196356,0 -79.8427574988248,42.93988338875343,0 -79.84071902022249,42.9387680759593,0 -79.83893803291662,42.93743281503024,0 -79.83621290906059,42.93513924120824,0 -79.83357361563672,42.93301839471271,0 -79.830269134118,42.93107029339776,0 -79.82726506001006,42.92970344347312,0 -79.82408932413956,42.92833656321542,0 -79.82007673930993,42.92632546622411,0 -79.81889656772393,42.92602693831008,0 -79.8150127285425,42.92500564807911,0 -79.81243780839188,42.92447142821567,0 -79.80874708903023,42.9237486525979,0 -79.80606487949197,42.92334012329754,0 -79.80250290577852,42.92326155958406,0 -79.79690245346279,42.92312014491044,0 -79.79231051186875,42.92283731393164,0 -79.78947809952341,42.92250734336342,0 -79.78465012289354,42.92191024974135,0 -79.77729014132912,42.92087317764014,0 -79.77546623880716,42.92063747676161,0 -79.77297714908867,42.92030749441152,0 -79.77059534785953,42.92018178676062,0 -79.76969412562714,42.92018178676062,0 -79.76844958076791,42.92038606189197,0 -79.76535967532952,42.92136028953716,0 -79.7633641119433,42.92202024119311,0 -79.75731304851138,42.92279017585711,0 -79.75460938181423,42.92296301682224,0 -79.75021055914166,42.92319870880426,0 -79.74615505909597,42.92326155958406,0 -79.74478176769021,42.92313585730253,0 -79.74224976275565,42.92263304692733,0 -79.74051169156417,42.92247591759682,0 -79.73413876266424,42.92242877924578,0 -79.73040512808653,42.92260162122486,0 -79.72469738728147,42.92308871945643,0 -79.72089937943048,42.9241571785314,0 -79.72012690284632,42.92451856566162,0 -79.71886089992988,42.92508420956844,0 -79.71776655877603,42.92563413653064,0 -79.71409729657326,42.92706392365738,0 -79.70770291051446,42.92899644013964,0 -79.6957724454132,42.93235856087759,0 -79.69246796389447,42.93304981510124,0 -79.68888453212384,42.93320691680341,0 -79.68540838974083,42.9331126558302,0 -79.68289784196517,42.93248424368205,0 -79.68148163534335,42.9318558251218,0 -79.68040875134838,42.93103887199938,0 -79.67620304759727,42.927566697869,0 -79.6751516216595,42.92681253501266,0 -79.67437914597363,42.92643544979314,0 -79.6705167648494,42.92525704409757,0 -79.66620377260897,42.92327727194008,0 -79.66425112443882,42.92236592695863,0 -79.658178603848,42.91945896081719,0 -79.65641907459931,42.91862612842158,0 -79.65474537578275,42.91759685860146,0 -79.65236357455362,42.91607256404826,0 -79.65111902969436,42.91520825706637,0 -79.65056113008886,42.91488610288793,0 -79.65015343418872,42.91465823704139,0 -79.65115121543269,42.91520825706637,0 -79.65088299465852,42.9151532552848,0 -79.65061477388436,42.91522397213405,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00026">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 32 / Dairy Side Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{9CB0370D-7A0B-4E66-AB1E-4DDAB4F1D1B3}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>7679.457854</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 6:25:38 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:24:45 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Hwy 3</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Road 17</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>5.66</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.74587610974235,42.92323799038467,0 -79.74589756690125,42.9239529159033,0 -79.74849394510906,42.92984484303445,0 -79.75793532139015,42.95127099405088,0 -79.75879362840647,42.95262165973391,0 -79.76098231071416,42.95441203137663,0 -79.7617547864,42.95554276554343,0 -79.76402930003815,42.9608192507155,0 -79.76862124163219,42.970648638509,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00027">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 53 / Selkirk Townline Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{91F1E0E0-90C8-4D99-8F8A-789216AEA7E7}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>15585.216084</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 6:26:46 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:24:20 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 20</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Road 3 / Rainham</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>11.4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.93184872201783,42.83371104468193,0 -79.94330711884405,42.86347554196308,0 -79.9609024095343,42.90969846668934,0 -79.96811218739333,42.92798940008772,0 -79.9694854787991,42.93251415358931,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00028">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 3 / Rainham Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{E5E3DF45-D8D4-4314-A8B0-A1B75E2813E7}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>15313.115964</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 6:27:32 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:24:07 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 53 / Selkirk Townline Rd</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Road 55 / Nanticoke Townline</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>11</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.06359882880943,42.81296810443607,0 -80.06359882880943,42.81281069570043,0 -80.06286926744133,42.81243291336383,0 -80.06213970697154,42.81233846774861,0 -80.06325550528425,42.81211809342659,0 -80.02119846867156,42.81932707480178,0 -79.97596569529003,42.82669258892163,0 -79.93193455244996,42.83361663090799,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00029">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 55 / Nanticoke Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{7B201028-06CB-4E25-81DC-5679C6997B60}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>28330.425028</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 6:29:10 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:23:46 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 20 / Indian Line</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Road 3 / Rainham Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>20.7</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.13187714149157,42.99149404785043,0 -80.1292163900105,42.98490165978595,0 -80.12895889781578,42.98333193946328,0 -80.1262981463347,42.97661308357769,0 -80.1245815323021,42.97212297096029,0 -80.12011833635626,42.96022101779921,0 -80.12003250592412,42.95956147548433,0 -80.11509724170324,42.94633773094683,0 -80.1126939824169,42.94030600644177,0 -80.1068574950653,42.92456419146486,0 -80.10582752718472,42.92296150583415,0 -80.09724445791993,42.89998509445707,0 -80.096858220077,42.89882190149484,0 -80.0888759665321,42.87659127801836,0 -80.08861847433739,42.87640258271276,0 -80.08818932038008,42.87542764448367,0 -80.08724518293162,42.87394948333296,0 -80.08346863313784,42.86388446801519,0 -80.08346863313784,42.86319243797816,0 -80.07814713017571,42.84941313232022,0 -80.07312603462435,42.83632309157571,0 -80.06887741565718,42.8254021133851,0 -80.06896324608933,42.82505588405953,0 -80.06874867000897,42.82492998158654,0 -80.06793327820874,42.82379685042651,0 -80.06334133661471,42.81221253937834,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00030">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 55 / Nanticoke Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{9D9D905A-4A03-40DB-BB78-7A9D870262A9}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>2390.583538</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 6:30:02 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:23:13 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 3 / Rainham Rd</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Hickory Beach Lane</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>1.75</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.0576979681846,42.79796526941429,0 -80.06304092920391,42.81170882465109,0 -80.06289072549852,42.81218105741046,0 -80.06304092920391,42.8116773424268,0 -80.06314821769325,42.81213383475807,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00031">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 3 / Concession 2 Walpole</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Stelco</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{545DF0A3-EE0E-4771-9F8D-1F2E40DDA786}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>2518.868814</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 6:30:49 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:33:48 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 55 / Nanticoke Rd</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Road 3 / Rainham Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>1.55</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.08760996361568,42.82296272683694,0 -80.08735247142096,42.82266369849712,0 -80.08711643728341,42.82249057640845,0 -80.08679457181543,42.82238040743432,0 -80.0864083339725,42.82234892998375,0 -80.08578606109373,42.82233319191135,0 -80.0872666409888,42.82203416052669,0 -80.08621521505104,42.82227023826388,0 -80.08318968288592,42.82269517512854,0 -80.06877012716787,42.82489850609294,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00032">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 3 / Rainham / St Johns</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{FB5B3C86-8886-4DDE-9C4A-F7854A400288}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>7309.16994</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 6:31:49 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:33:59 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Conc. 2 Walpole / Haldimand Road 3</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Norfolk Boundary</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>5.48</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.1454598473522,42.8221758070136,0 -80.14515943994141,42.82231745317604,0 -80.14290638436047,42.82277386696644,0 -80.13794966208239,42.82352930232797,0 -80.12872286367825,42.8248827680107,0 -80.1165778207,42.82678701327278,0 -80.11395998443501,42.82713323290272,0 -80.1101834346412,42.82713323290272,0 -80.10743685272801,42.82740076540418,0 -80.1061493917544,42.82780993032591,0 -80.10466881275761,42.82843940948165,0 -80.10342426789838,42.82886430394202,0 -80.10196514606048,42.82917903862312,0 -80.10007687116358,42.82925772220764,0 -80.09479828341752,42.82914756529301,0 -80.09297438179388,42.82914756529301,0 -80.09140797146665,42.82862825138542,0 -80.09016342660742,42.82793582627459,0 -80.08934803480717,42.8270860210096,0 -80.08900471218031,42.82625194179947,0 -80.08797474429973,42.82384406483169,0 -80.08730955620489,42.82204989933407,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00033">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 70</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{7B06554C-F8E3-44CF-A380-248AF29DC952}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>2277.455769</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 6:35:15 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:34:29 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Hwy 6</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Hwy 3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>March 1st - April 30th</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A &amp; B</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>1.71</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle015</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.13388990402223,42.87352489892091,0 -80.13380407359007,42.87317893857998,0 -80.12852548674233,42.85905582292028,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00034">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 74 / County Line Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{53A00BFA-01BB-41AB-A945-D2313B0D545D}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>3540.199605</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 6:37:30 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:34:39 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 69</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Hwy 3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>2.58</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.14144300450812,42.89377590732463,0 -80.14054178227573,42.89185800656654,0 -80.14067052882226,42.89132349934145,0 -80.14101385144912,42.89006581615809,0 -80.14225839630836,42.88833646007102,0 -80.14418958731963,42.88597816902652,0 -80.14491914778942,42.8841858077709,0 -80.14470457081077,42.88255062595901,0 -80.14397501034098,42.88075816511989,0 -80.14401792555704,42.88016066638176,0 -80.14418958731963,42.87915434033155,0 -80.14539121696281,42.87742467834501,0 -80.14560579304316,42.87657555376076,0 -80.14509080955202,42.87506597016709,0 -80.14388917990885,42.87179507913945,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00035">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 18 / Sandusk</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>Currently Marked as Spring Thaw</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{80160ECA-2A3F-4319-918B-3EDE8ABDF514}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>4289.526376</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 6:38:04 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:34:50 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Hwy 6</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Road 20 / Indian Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>March 1st - April 30th</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A &amp; B</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>3.25</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle015</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.0778571908329,42.97157950033796,0 -80.07790010604897,42.97139109509515,0 -80.07721346079525,42.96966402090928,0 -80.07154863520626,42.95424381064448,0 -80.07090490516862,42.95254766613103,0 -80.06777208541247,42.94438038784773,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00036">
+      <name>Haldimand / Norfolk</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand / Norfolk</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand / Norfolk</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 74 / County Line Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{BFE0F288-CDE8-46ED-9EEA-7C4F6736E36A}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>7172.034388</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 6:44:47 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:35:04 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>2018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Stone Quarry</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Road 9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>March 1st - April 30th</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A &amp; B</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>5.25</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle015</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.14253061458554,42.89623426633781,0 -80.15969675221682,42.94171008045507,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00037">
+      <name>Haldimand / Norfolk</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand / Norfolk</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand / Norfolk</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 74 / County Line Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{1C6D482E-10DA-4054-BDF1-8992434D8CF5}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>444.373713</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 6:45:12 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:42:20 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 9</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Norfolk Road 9 / Thompson Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>0.32</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.16072672099571,42.94458458273272,0 -80.15971821027399,42.94175720470858,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00038">
+      <name>Haldimand / Norfolk</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand / Norfolk</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand / Norfolk</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 74 / County Line Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{83B42621-2954-4842-B54F-C6B8774C6B40}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>10491.433906</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 6:46:03 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:21:12 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Norfolk Road 9 / Thompson Rd</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Road 20 / Indian Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>March 1st - April 30th</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A &amp; B</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>7.71</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle015</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.18514555170208,43.01121024610316,0 -80.18508117842882,43.01072384517165,0 -80.18349331094271,43.00645590600939,0 -80.17392318901341,42.98005713497194,0 -80.16709964899731,42.96156182660354,0 -80.16074817815458,42.94461599721972,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00039">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{C342ACD5-B778-46BD-9D97-944FF018F9EB}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>11632.577215</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 6:47:31 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:20:52 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 74 / County Line</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Hwy 6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>8.47</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.05730776607631,42.95596992723927,0 -80.11863379309413,42.94767745155062,0 -80.16000418445311,42.94183435399118,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00040">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 18 / Sandusk</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{A46F6E55-167E-4088-BDC0-394A79903F55}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>19682.984961</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 6:50:58 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:21:51 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Hwy 6</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Road 3 / Rainham Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>14.5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.01956162593449,42.81967490573706,0 -80.02398190576592,42.83078573172288,0 -80.03183541366261,42.85105076154201,0 -80.03732857838735,42.86489261145092,0 -80.04337964181926,42.88071256218007,0 -80.04428086405163,42.88200188248887,0 -80.04501042452144,42.88395153514421,0 -80.04882989042962,42.89335302699581,0 -80.04934487481906,42.89473640295729,0 -80.05355057857015,42.90580229481868,0 -80.05397973162916,42.90875705470777,0 -80.05732712836394,42.91762048587749,0 -80.05749879012653,42.91963186704453,0 -80.06028593366976,42.92681427152085,0 -80.06118715590213,42.92863681639322,0 -80.0626891929561,42.93049072969222,0 -80.06341875342588,42.93218748263052,0 -80.06775320372351,42.944126272524,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00041">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Concession 3 Walpole</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{6E6CC607-40E7-4349-8838-168936F2D59E}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>5055.725856</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 6:52:41 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:22:36 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 55 / Nanticoke Rd</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Road 18 / Sandusk Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>3.67</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.07410702815228,42.83871631757805,0 -80.02964673135493,42.84551315199554,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00042">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Concession 2 Walpole</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{D45ACB5E-AFA8-47A5-B674-AAA04B54046C}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>5034.59113</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 6:52:56 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:35:18 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 55 / Nanticoke Rd</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Road 18 / Sandusk Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>3.75</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.06878552519015,42.82499450191694,0 -80.02466855191796,42.83229639806309,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00043">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 69 / Nanticoke Creek Parkway</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{115576A7-0EDD-41FF-B4EA-F9660C76171D}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>5009.994103</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 6:55:42 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:35:28 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 55</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Road 74 / Townsend Parkway</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>3.7</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.09715256745289,42.89937065327389,0 -80.10560689106946,42.89830176375835,0 -80.11418995943593,42.89723285637148,0 -80.13178525102452,42.89484346562217,0 -80.13813672186726,42.89396314046395,0 -80.14148411860205,42.89374305721086,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00044">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 3 / Rainham Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{A5F4ECAA-FF3F-456E-9F7C-BEA158C4D89E}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>34178.98338</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 7:00:52 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:35:44 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 20</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Road 53 / Selkirk Townline Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>25.3</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.63588795571155,42.89243298251534,0 -79.64391312537084,42.89076657737786,0 -79.65927681853735,42.88762229294307,0 -79.67468342691994,42.88428917703622,0 -79.68700013076244,42.88105022245677,0 -79.6962269300649,42.87919482171565,0 -79.70051846424813,42.87872310095692,0 -79.70541081325295,42.87777964862052,0 -79.7097023483345,42.87677328307914,0 -79.72970089831112,42.87101781653772,0 -79.75081524749876,42.86554490773877,0 -79.75991330025469,42.8637519529121,0 -79.77167210539,42.86076357936913,0 -79.78428921574499,42.85862444376277,0 -79.79892334844172,42.85607625898675,0 -79.82153973468333,42.85233243919315,0 -79.84222493081197,42.84877717343544,0 -79.85848984621086,42.84607125893125,0 -79.87745842830687,42.84270443233262,0 -79.90153393638639,42.83861364794389,0 -79.90900120644014,42.83729195211441,0 -79.93183216966041,42.83367287866242,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00045">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 50</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{3376AC64-4C69-4440-AD4B-571F1F1E3A78}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>4650.784507</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 7:01:56 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:35:51 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 20</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Road 3 / Rainham Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>3.41</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.76469836166851,42.89455522614368,0 -79.76272425544116,42.89009056956942,0 -79.75688776898789,42.8771506721628,0 -79.7516091812418,42.86548199810947,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00046">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 50</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{EB92598C-F97A-40E8-8F4C-C5AA0B35336B}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>2625.631051</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 7:02:26 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:35:58 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 3 / Rainham Rd</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Lakeshore Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>March 1st - April 30th</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A &amp; B</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>1.84</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle015</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.74418482730243,42.84896595385214,0 -79.74879822605534,42.85914350558408,0 -79.75163063929901,42.86537190577464,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00047">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 8 / Kohler Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{3F46967A-893B-4524-AB1B-6769E388EA1C}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>15249.859754</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 7:03:18 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:36:11 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Hwy 3</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Road 3 / Rainham Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>11.2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.88305888062261,42.94367653319561,0 -79.87709364852115,42.92966382596494,0 -79.87593493409403,42.92743280932039,0 -79.87404665829882,42.92633298260085,0 -79.87284502865565,42.92551595556662,0 -79.86589274299135,42.90948746869154,0 -79.85919794952177,42.89386354000978,0 -79.85911211908963,42.89285743747833,0 -79.86009917175414,42.88776378972974,0 -79.85649428282463,42.87886461749738,0 -79.8549493305546,42.87540522945511,0 -79.85078654201955,42.86420806070031,0 -79.85009989676584,42.86323292983285,0 -79.84469256337157,42.84935924414958,0 -79.8444779863929,42.8484468064826,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00048">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 8 / Kohler Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{619D5B6B-2F5C-4C45-9AF7-77B4ADB41757}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>2846.00455</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 7:03:42 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:36:19 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 3 / Rainham Rd</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Lakeshore Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>March 1st - April 30th</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A &amp; B</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>2.11</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle015</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.83743987029646,42.83038405791654,0 -79.84443507117686,42.84841534296522,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00049">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 12 / Fisherville Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{9383CA30-F1F4-4EEA-912D-5C914826152B}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>11642.037737</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 7:05:29 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:36:26 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 20</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Road 3 / Rainham Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>8.34</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.88816059997072,42.84084359809393,0 -79.8883322617333,42.84153587859497,0 -79.89412583297049,42.85673262981235,0 -79.89481247912254,42.85833703794867,0 -79.89867485934846,42.86805696933228,0 -79.9032668018408,42.879756604161,0 -79.9038676166624,42.88148620077986,0 -79.90519799195377,42.88516536255051,0 -79.91094864797491,42.90063431063882,0 -79.91438187604015,42.90975036847129,0 -79.91566933611547,42.91317639999484,0 -79.91549767435288,42.91257921594893,0 -79.91618432050491,42.91336498347059,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00050">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 53 / Selkirk Townline Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{E05EC767-AC79-4583-944B-C49B7C4C9C0B}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>2407.933722</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 7:06:46 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:36:34 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 3 / Rainham Rd</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Lakeshore Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>March 1st - April 30th</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A &amp; B</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>1.67</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle015</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.92614068027716,42.81840321461917,0 -79.92622651070928,42.81859208718157,0 -79.92820061693664,42.82391177718343,0 -79.92993868812812,42.8287903797878,0 -79.93019618032285,42.82923100881483,0 -79.93184842108221,42.83370006839644,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00051">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Talbot St, Cayuga / Hwy 3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{A632CBFC-D7C8-4674-A4BF-E2E60C1283F9}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>1712.400652</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 7:07:47 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:36:47 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Cayuga Bridge</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Monture St</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>1.28</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.84586752832216,42.95276136360051,0 -79.8604587458028,42.94919617859032,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00052">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 62 / Brooklin Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{8CC29908-20C3-424B-BB28-287239B4BC1F}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>3808.051856</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 7:13:09 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:37:00 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 3 / Rainham Rd</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Southcoast Dr</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>March 1st - April 30th</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A &amp; B</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>2.75</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle015</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.98062170922169,42.80026381323888,0 -79.98100794796294,42.80086208511057,0 -79.99019183115099,42.82434754828256,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00053">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Riverside Drive</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{69AB1F3D-1286-45B3-B488-0BD789857DC9}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>2532.806382</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 7:15:34 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:37:14 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Conc. 2 Walpole</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Rainham Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>March 1st - April 30th</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A &amp; B</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>1.5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle015</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.08229532737558,42.80906937663348,0 -80.08466492768655,42.8152467352913,0 -80.08697105663279,42.82107859979584,0 -80.0868864281465,42.82161159178338,0 -80.08650559995822,42.82200349530666,0 -80.08587088541273,42.82223863622819,0 -80.08648444193832,42.82201917152768,0 -80.0868864281465,42.82162726810382,0 -80.08694989951123,42.8210158939339,0 -80.08733072859782,42.82203484708587,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00054">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 74 / Townsend Parkway</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{FC11198E-8091-4F7A-9AC0-30D7E799BEA3}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>392.859606</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 7:16:45 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:42:19 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 69 / Nanticoke Creek Parkway</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Stone Quarry</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>0.32</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.14147328761466,42.89375163187213,0 -80.14252471355243,42.89621966255719,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00055">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 48</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{3FAD8C7A-47BB-42DD-A5CC-6BDED9FFF3F5}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>659.377908</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 7:18:41 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:38:26 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 11 / Port Maitland Rd</td>
+</tr>
+<tr>
+<td>To</td>
+<td>End</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>0.5</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.6204488220275,42.8875591603131,0 -79.62051319530076,42.89004316029514,0 -79.62047028008469,42.89189823478667,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00056">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 11 / Port Maitland Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{4DA1CD3D-C6DE-4710-98AC-B4A9C6B216C6}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>8140.942629</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 7:19:46 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:38:23 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 3 / Rainham Rd</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Kings Row</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>5.9</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.5842604585047,42.8613846125042,0 -79.58458232307437,42.86854066807789,0 -79.58486127332628,42.86984596869134,0 -79.58553719000058,42.87362804048831,0 -79.5861272753444,42.87661579128931,0 -79.58651351408564,42.878251131051,0 -79.58714651464555,42.88101066779944,0 -79.5874361934769,42.88253582870663,0 -79.58791899122973,42.88311758185287,0 -79.58862709454063,42.88372291317531,0 -79.58917426466842,42.8839823387846,0 -79.59034370857326,42.88426534741566,0 -79.59491419211011,42.88493355800165,0 -79.6014909685109,42.88553100985918,0 -79.60752057478396,42.88610487318827,0 -79.61147951491978,42.88656867665352,0 -79.61289572154161,42.88694600582534,0 -79.6143548433795,42.88776354356852,0 -79.61534189604401,42.88843171626241,0 -79.6205990257329,42.891968977658,0 -79.62206887615024,42.89298295538106,0 -79.62273406424508,42.89336024531499,0 -79.62331342100947,42.89339954591537,0 -79.62508367973591,42.89336024531499,0 -79.62567376507974,42.89356460934825,0 -79.62602781718437,42.89358032993415,0 -79.62565230792087,42.89356460934825,0 -79.62572740977357,42.89381613363568,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00057">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 49 / Aikens Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{C0CBEE9B-03BC-428E-ACA9-D1DD6B3B3E81}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>4766.862047</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 7:22:09 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:38:40 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 3 / Rainham Rd</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Lakeview Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>March 1st - April 30th</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A &amp; B</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>3.6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle015</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.67445410948579,42.85275257790654,0 -79.67492617865916,42.86947205397885,0 -79.67544116304862,42.88088839773589,0 -79.67544116304862,42.88412736081081,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00058">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>James Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{8D5D3D5A-4E44-4CCA-93D7-AE8F829A9B91}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>5850.840782</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 7:24:42 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:38:48 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Hwy 3</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Moote Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>4.4</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.61957659741249,42.94693523612315,0 -79.62554182951398,42.9491969584199,0 -79.64455332772438,42.95617007977977,0 -79.65549674016113,42.96014314868481,0 -79.66656889914439,42.96416306880948,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00059">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 7 / Marshagan Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{863E48CF-03EE-4977-A647-0B8F62A073C6}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>8327.018373</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 7:27:31 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:39:02 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Hwy 3</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Wainfleet Townline</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>March 1st - April 30th</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A &amp; B</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>6.06</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle015</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.53355743552302,42.9723911206441,0 -79.53364326595515,42.9720849654608,0 -79.53782286646074,42.9665340699497,0 -79.55131974188923,42.94855300451214,0 -79.5650097371375,42.93055097369004,0 -79.56719841944519,42.92767581624204,0 -79.56743445358272,42.92707877271317,0 -79.56713404617193,42.92643458679591,0 -79.56651177419145,42.92575897070789,0 -79.56548180541256,42.92437629018951,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00060">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 65 / Hutchinson Rd</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{D2319ABD-368D-4024-8587-1A4B41BDEF7C}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>14162.113521</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 7:31:57 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:39:14 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 3 / Northshore Rd</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Hwy 3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>March 1st - April 30th</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A &amp; B</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>10.6</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.45265279936434,42.87457605003098,0 -79.45874677801233,42.88611722699464,0 -79.46466909579605,42.89696459442033,0 -79.46561323324451,42.89734185933708,0 -79.46720110073062,42.89718466617647,0 -79.46900354519538,42.8966187655061,0 -79.47526918560595,42.8948267134422,0 -79.4815516218174,42.89300951747664,0 -79.4853281716112,42.89212916613931,0 -79.48695895521169,42.89288375348718,0 -79.49511287051915,42.90275542449002,0 -79.51399562218303,42.92525943843441,0 -79.51493975963149,42.92664209913078,0 -79.51760051111256,42.93016145785056,0 -79.52343699756584,42.93694822410659,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00061">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 3 / Northshore Dr</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{B443F537-5E96-45B2-A79D-F1FDAFF77DFD}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>11926.08827</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 7:43:18 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:39:32 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Rad 64 / Rymer Rd</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Haldimand Road 65 / Hutchinson Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>9.06</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.54114423900175,42.86646134152843,0 -79.53989969414251,42.86501442136345,0 -79.53882681014753,42.864007847659,0 -79.53783975748301,42.86334727493135,0 -79.53633772042906,42.86256086998755,0 -79.53466402251081,42.86092511445867,0 -79.53153120185638,42.85781076860083,0 -79.53011499613287,42.85711867048445,0 -79.52822672033764,42.85705575226881,0 -79.50492368884233,42.8572445067234,0 -79.49230657758901,42.85743326125949,0 -79.47402464074669,42.85759055637528,0 -79.47346674114118,42.85787368604716,0 -79.47308050329826,42.85866015135115,0 -79.4714068044817,42.85976118555308,0 -79.46956144480089,42.86073637059669,0 -79.46621404806611,42.86199465167227,0 -79.46466909579605,42.86256086998755,0 -79.46462618057998,42.86344164327288,0 -79.4647549262282,42.8641965815199,0 -79.46419702662267,42.86498296628649,0 -79.46243749827231,42.86633552407347,0 -79.45913301675357,42.8678138669237,0 -79.45788847099602,42.86888328479667,0 -79.45574270390439,42.86979542051987,0 -79.45471273602382,42.87051882946749,0 -79.45351110638065,42.87124222927811,0 -79.45355402159672,42.87202852363166,0 -79.45381151379144,42.87278335752414,0 -79.45394025943963,42.87334947622662,0 -79.45351110638065,42.8738841398533,0 -79.45278154501254,42.87454459982643,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00062">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Haldimand Road 3/ Northshore Dr</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{72D13207-63D7-444D-9145-3078A62E9ECF}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>1731.785216</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 7:43:51 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:40:00 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 6 / Hutchinson Road</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Wainfleet Townline</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>March 1st - April 30th</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A &amp; B</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>1.26</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle015</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.437739717314,42.87632151619161,0 -79.43943487328943,42.87662028487225,0 -79.44158064038106,42.87685615406938,0 -79.44374786552989,42.87685615406938,0 -79.44608675154298,42.87644731394965,0 -79.4474815001076,42.87624289320313,0 -79.4489406219455,42.87586549856773,0 -79.45130096601576,42.87522077733808,0 -79.45263134130714,42.87459177545642,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00063">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Ramsey Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{2482546C-531C-42A9-B23F-F517DC7CC2D8}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>805.625944</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/9/2018 9:17:22 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:40:21 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Broad St</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Industrial Court</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>0.62</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.60055766204985,42.90313031536922,0 -79.60150179949829,42.90562154663147,0 -79.60168418984033,42.90598304247592,0 -79.60187730876179,42.90623451610937,0 -79.60226354660472,42.90651742263848,0 -79.60424838141149,42.90727969279648,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00064">
+      <name>Haldimand</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Dry Lake Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{A7B1FAEE-49EA-4ABA-A1CB-2C9ED06D9922}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>5652.09119</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/12/2018 3:18:52 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:41:04 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>Haldimand Road 9</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Hwy 3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>4.16</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.95533269217768,42.96552170725391,0 -79.95379846938542,42.96198866712402,0 -79.95150249769007,42.95675154244186,0 -79.9477795916918,42.94833352121641,0 -79.94688909893718,42.94615030181237,0 -79.9442283474561,42.93955305244298,0 -79.94387429535149,42.93852413159805,0 -79.94386356677205,42.93813140951603,0 -79.94405668569351,42.93656049548265,0 -79.94398158384082,42.93626201717387,0 -79.94374554970329,42.93586928066445,0 -79.94305890444956,42.93539799341534,0 -79.94253319148068,42.93504452544709,0 -79.94207185088673,42.93443969793407,0 -79.94166415588492,42.93355993822011,0 -79.9404230848109,42.93032993842741,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00065">
+      <name>Haldimand / MTO</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand / MTO</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand / MTO</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Main Street, Jarvis / Hwy 6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{C32BA854-3BD1-4AF6-AA1F-AC11EAE90740}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>2993.241906</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/12/2018 3:49:35 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:41:20 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>North Connecting Link</td>
+</tr>
+<tr>
+<td>To</td>
+<td>South Connecting Link</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>2.2</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.11760492025989,42.87812629214592,0 -80.11655433155195,42.87997862918312,0 -80.10638339480107,42.89821550485686,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00066">
+      <name>Haldimand / MTO</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand / MTO</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand / MTO</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Talbot Street, Jarvis / Hwy 3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{36FFC59D-7093-43C8-BBA1-E8568FA5C5F3}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>2255.947468</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/12/2018 3:50:11 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:41:34 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>East Connecting Link</td>
+</tr>
+<tr>
+<td>To</td>
+<td>West Connecting Link</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>1.65</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.09971419163898,42.88641954464558,0 -80.10005338201553,42.88637787073627,0 -80.10852916189268,42.88519869970271,0 -80.11998755871888,42.88370504951824,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00067">
+      <name>Haldimand / MTO</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Haldimand / MTO</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>Haldimand / MTO</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>Main Street, Hagersville / Hwy 6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{8734CD94-795C-4A90-AD97-E44E6421BBBB}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>2243.236462</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>2/12/2018 3:50:58 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>7/24/2018 12:41:47 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>HaldimandEditor</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>North Connecting Link</td>
+</tr>
+<tr>
+<td>To</td>
+<td>Parkview Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>1.64</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -80.04598004807281,42.96840685573557,0 -80.04904849455568,42.96498389536726,0 -80.05707366421494,42.95609587151059,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00068">
+      <name></name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td></td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>Jurisdiction</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Category</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Road Name</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Comments</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>GlobalID</td>
+<td>{C28710E4-FB38-416D-8BD3-F7A0EF89507E}</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Shape__Length</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>CreationDate</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Creator</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>EditDate</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Editor</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Bylaw</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>From</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>To</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Restriction Times</td>
+<td>&lt;Null&gt;</td>
+</tr>
+<tr>
+<td>Schedule</td>
+<td>Schedule A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Length (km)</td>
+<td>&lt;Null&gt;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#LineStyle00</styleUrl>
+      <MultiGeometry>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+          <coordinates> -79.58668756896016,42.90882852304951,0 -79.58775572422347,42.90738741271337,0 -79.58779501383906,42.90733581490062,0 -79.58842208821301,42.90651228443402,0 -79.5886829050726,42.90616434823558,0 -79.58872073582417,42.90611695263421,0 -79.58876044495298,42.90607043607054,0 -79.58880203335738,42.90602479788873,0 -79.58884537796816,42.9059799920313,0 -79.58889053627749,42.90593624419105,0 -79.58892550948812,42.90590403222723,0 -79.58896150857483,42.90587246310454,0 -79.58901089794915,42.90583119845076,0 -79.58904888860081,42.90580091435029,0 -79.58908796441737,42.90577140929849,0 -79.58914139261722,42.90573298579218,0 -79.58918239711666,42.90570485525652,0 -79.58922566986223,42.90567661745501,0 -79.5892846891764,42.90564006456739,0 -79.58934514848995,42.90560483422733,0 -79.5894070460063,42.9055710178985,0 -79.58947025865621,42.90553856820752,0 -79.58953484842345,42.90550753121617,0 -79.58960069134051,42.90547795101244,0 -79.58966772452534,42.90544987036813,0 -79.58971871200254,42.90542978700137,0 -79.58977035255498,42.90541061232155,0 -79.58984011751654,42.9053863026274,0 -79.58991082481089,42.90536362541491,0 -79.58996435272371,42.90534762555204,0 -79.59001853281346,42.90533257912356,0 -79.59007306234783,42.90531834795055,0 -79.59062215846357,42.90518093944989,0 -79.59990628734913,42.90320844150362,0 -79.60055766204985,42.90313031536922,0</coordinates>
+        </LineString>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="LineStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ffe65c00</color>
+      <width>2.000000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>00000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="LineStyle015">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000ff</color>
+      <width>2.000000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>00000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>
